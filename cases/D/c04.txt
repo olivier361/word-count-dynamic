@@ -1,0 +1,5 @@
+Count[02]=01; (words: "ya")
+Count[03]=04; (words: "the", "fox", "dog" and "The")
+Count[04]=02; (words: "over" and "lazy")
+Count[05]=03; (words: "quick" and "brown")
+Count[06]=02; (words: "jumped" and "foxily")

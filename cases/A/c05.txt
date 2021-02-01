@@ -1,0 +1,6 @@
+Count[02]=04; (words: "is", "of" and "to")
+Count[03]=05; (words: "aid", "all", "for" and "the")
+Count[04]=04; (words: "This", "come", "good" and "time")
+Count[06]=02; (words: "people" and "theiry")
+Count[07]=01; (words: "country")
+Count[11]=01; (words: "Shakespeare")

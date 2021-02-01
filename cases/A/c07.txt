@@ -1,0 +1,8 @@
+Count[01]=03; (words: "I" and "i")
+Count[02]=24; (words: "It", "So", "We", "at", "do", "go", "in", "it", "to" and "we")
+Count[03]=39; (words: "And", "Sit", "The", "Too", "all", "and", "bit", "day", "did", "had", "how", "not", "one", "out", "sat", "sun", "the", "too", "two", "was" and "wet")
+Count[04]=11; (words: "ball", "cold", "like", "play", "said", "that", "wish" and "with")
+Count[05]=07; (words: "could", "house", "sally", "shine" and "there")
+Count[06]=01; (words: "little")
+Count[07]=01; (words: "nothing")
+Count[09]=01; (words: "something")

@@ -1,0 +1,4 @@
+Count[02]=05; (words: "we", "to", "in", "So" and "It")
+Count[03]=12; (words: "wet", "was", "too", "sun", "sat", "not", "did", "day", "all", "The" and "THe")
+Count[04]=04; (words: "that", "play" and "cold")
+Count[05]=02; (words: "shine" and "house")
